@@ -1,0 +1,30 @@
+{
+  "periods": [
+    {
+      "id": 1,
+      "name": "Triássico"
+    },
+    {
+      "id": 2,
+      "name": "Jurássico"
+    },
+    {
+      "id": 3,
+      "name": "Cretáceo"
+    }
+  ],
+  "foods": [
+    {
+      "name": "Hambuguer",
+      "image": "/imgs/foods/hamburguer.jpg",
+      "price": 12.5,
+      "category_id": 3
+    },
+    {
+      "name": "Suco de Laranja",
+      "image": "/imgs/foods/suco-laranja.jpg",
+      "price": 7,
+      "category_id": 2
+    }
+  ]
+}
